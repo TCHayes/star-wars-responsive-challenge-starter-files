@@ -1,0 +1,12 @@
+header {
+  background-color: gold;
+  margin-bottom: 40px;
+}
+
+.character {
+  border: 1px solid lightgrey;
+}
+
+img {
+  max-width: 100%;
+}
