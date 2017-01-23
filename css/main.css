@@ -1,10 +1,17 @@
 header {
-  background-color: gold;
+  background-color: #eebb44;
   margin-bottom: 40px;
 }
+header h1 {
+  margin-top: 20px;
+}
 
-.character {
+.character{
+  margin-bottom: 20px;
   border: 1px solid lightgrey;
+}
+.character h3, .character p {
+  padding-left: 10px;
 }
 
 img {
